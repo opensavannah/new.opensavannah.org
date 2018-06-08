@@ -1,0 +1,60 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 10,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/about/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/contact/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/process/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/project/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/projects/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/submit-idea/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/status/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404.html"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}
