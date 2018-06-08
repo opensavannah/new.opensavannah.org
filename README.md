@@ -1,9 +1,5 @@
-# NYC Planning Labs Website
+Built with [Gatsby.js](https://www.gatsbyjs.org/docs/building-with-components/)
 
-[planninglabs.nyc](https://planninglabs.nyc/) built with [Gatsby.js](https://www.gatsbyjs.org/docs/building-with-components/)
-
-
-![image](https://user-images.githubusercontent.com/409279/34015575-dd993eb6-e0ec-11e7-922e-f545b95819ca.png)
 
 
 ## How you can help
@@ -51,6 +47,3 @@ This project can be deployed on any static web server.
 
 - Deploy via Dokku using `npm run deploy`
 
-## Contact us
-
-You can find us on Twitter at [@nycplanninglabs](https://twitter.com/nycplanninglabs), or comment on issues and we'll follow up as soon as we can. If you'd like to send an email, use [labs_dl@planning.nyc.gov](mailto:labs_dl@planning.nyc.gov)
