@@ -15,7 +15,7 @@ class IndexPage extends React.Component {
     return (
       <div className="main">
         <Hero
-          tagline="The two biggest levers to improve people's lives at scale are government and technology. We put them together."
+          tagline="We envision a Coastal Georgia where human-centered, accessible government digital services and open data fuel community, inclusion, engagement, and efficiency."
           buttonText="Join Us"
           buttonURL="/contact/"
           />
