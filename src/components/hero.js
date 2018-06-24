@@ -16,11 +16,6 @@ class Hero extends React.Component {
      } else {
        button = <Link to={ this.props.buttonURL } className="button large">Learn more</Link>
    
-    if (this.props.buttonText && this.props.buttonURL) {
-     if (this.props.buttonURL.split('//')[1]) {
-       button = <a href={ this.props.buttonURL } className="button large" target="_blank">Learn more</a>
-     } else {
-       button = <Link to={ this.props.buttonURL } className="button large">Learn more</Link>
      }
    }
 
@@ -30,6 +25,7 @@ class Hero extends React.Component {
          <div className="cell">
           {title}
           {tagline}
+          {button}
           {button}
          </div>
        </div>
