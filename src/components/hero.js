@@ -26,7 +26,7 @@ class Hero extends React.Component {
           {title}
           {tagline}
           {button}
-          {button}
+        
          </div>
        </div>
      </div>
