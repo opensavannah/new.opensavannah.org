@@ -12,7 +12,7 @@ class Hero extends React.Component {
 
    if (this.props.buttonText && this.props.buttonURL) {
      if (this.props.buttonURL.split('//')[1]) {
-       button = <a href={ this.props.buttonURL } className="button large" target="_blank">Learn more</a>
+       button = <a href={ this.props.buttonURL } className="button large" target="_blank">Join Us</a>
      } else {
        button = <Link to={ this.props.buttonURL } className="button large">Learn more</Link>
    
