@@ -71,7 +71,7 @@ $global-width: rem-calc(1020);
 $global-lineheight: 1.5;
 $foundation-palette: (
   primary: $a11y-orange,
-  secondary:#ffffff,
+  secondary:#B94F3E,
   success: #3adb76,
   warning: #cc3322,
   alert: #4466ff,
@@ -134,7 +134,7 @@ $header-font-family: $body-font-family;
 $header-font-weight: $global-weight-bold;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-$header-color: inherit;
+$header-color: #fff;
 $header-lineheight: 1.3;
 $header-margin-bottom: 1.25em;
 $header-styles: (
