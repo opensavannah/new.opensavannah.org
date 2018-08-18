@@ -15,7 +15,7 @@ class IndexPage extends React.Component {
     return (
       <div className="main">
         <Hero
-          tagline="We work with local government and community to use design, technology and open data to transform our city."
+          tagline="We work with local government and community to use design, technology and open data to make our city more equitable."
           buttonText="Join Us"
           buttonURL="/contact/"
           />
@@ -29,7 +29,7 @@ class IndexPage extends React.Component {
 
               <div className="grid-x grid-margin-x">
                 <div className="cell large-auto">
-                  <p className="lead">We are a Code for America brigade in Coastal Ga. We are a diverse mix of residents who believe that by applying the principles and practices of the web era to the delivery of government services, we can create more equitable communities that work better, faster, and cheaper.</p>
+                  <p className="lead">We are the bridge between citizen and city in Coastal Georgia in the twentieth century. We are a diverse mix of residents who believe that by applying the principles and practices of the web era to the delivery of government services, we can create more equitable communities that work better, faster, and cheaper.</p>
                 </div>
                 <div className="cell large-auto">
 
@@ -47,7 +47,7 @@ class IndexPage extends React.Component {
                       <SkylineSVG />
                     </div>
                     <div className="media-object-section">
-                      <p className="header-medium">Create tools to help Savannah residents better understand the built environment</p>
+                      <p className="header-medium">Create tools and translate jargon to help Savannah residents better understand their government</p>
                     </div>
                   </div>
 
