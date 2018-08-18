@@ -29,7 +29,7 @@ class IndexPage extends React.Component {
 
               <div className="grid-x grid-margin-x">
                 <div className="cell large-auto">
-                  <p className="lead">We are the bridge between citizen and city in Coastal Georgia in the twentieth century. We are a diverse mix of residents who believe that by applying the principles and practices of the web era to the delivery of government services, we can create more equitable communities that work better, faster, and cheaper.</p>
+                  <p className="lead">We are the bridge between citizen and city in Coastal Georgia in the twenty-first century. We are a diverse mix of residents who believe that by applying the principles and practices of the web era to the delivery of government services, we can create more equitable communities that work better, faster, and cheaper.</p>
                 </div>
                 <div className="cell large-auto">
 
@@ -56,7 +56,7 @@ class IndexPage extends React.Component {
                       <FolderSVG />
                     </div>
                     <div className="media-object-section">
-                      <p className="header-medium">Build simple web-based tools to streamline internal workflows</p>
+                      <p className="header-medium">Build with and teach our communities technology and design skills to empower individuals and revitalize communities from the inside out, not vice versa</p>
                     </div>
                   </div>
 
