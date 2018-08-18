@@ -15,7 +15,7 @@ class IndexPage extends React.Component {
     return (
       <div className="main">
         <Hero
-          tagline="We work with local government and community to use design, technology and open data to make our city more equitable, and deliver municipal services better, faster, and cheaper."
+          tagline="We work with local government and community to use design, technology and open data to make our city more equitable, and deliver services better, faster, and cheaper."
           buttonText="Join Us"
           buttonURL="/contact/"
           />
@@ -38,7 +38,7 @@ class IndexPage extends React.Component {
                       <MonitorSVG />
                     </div>
                     <div className="media-object-section">
-                      <p className="header-medium">Bring civic data to life through interactive maps and visualizations</p>
+                      <p className="header-medium">Create tools and translate jargon to help Savannah residents better understand their government</p>
                     </div>
                   </div>
 
@@ -47,7 +47,7 @@ class IndexPage extends React.Component {
                       <SkylineSVG />
                     </div>
                     <div className="media-object-section">
-                      <p className="header-medium">Create tools and translate jargon to help Savannah residents better understand their government</p>
+                      <p className="header-medium">Work with local public servants to ensure that services and systems are designed with the resident at the center of the process</p>
                     </div>
                   </div>
 
@@ -56,7 +56,7 @@ class IndexPage extends React.Component {
                       <FolderSVG />
                     </div>
                     <div className="media-object-section">
-                      <p className="header-medium">Empower individuals and revitalize communities from the inside out by equipping our communities with access to tech and design knowledge</p>
+                      <p className="header-medium">Empower individuals and revitalize communities from the inside out by providing residents with access to tech and design training</p>
                     </div>
                   </div>
 
@@ -64,7 +64,7 @@ class IndexPage extends React.Component {
               </div>
 
               <div className="recent-posts-container">
-                 <h2 className="header-xlarge">Recent blog posts <small style={{fontSize:"0.6em"}}><a href="https://medium.com/nycplanninglabs">See All (medium.com)</a></small></h2>
+                 <h2 className="header-xlarge">Recent blog posts <small style={{fontSize:"0.6em"}}><a href="https://blog.opensavannah.org">See All (medium.com)</a></small></h2>
                  <BlogPosts />
               </div>
 
