@@ -11,7 +11,7 @@ class BlogPosts extends React.Component {
   }
 
   componentDidMount() {
-    fetch('https://api.planninglabs.nyc/posts')
+    fetch('https://capital-planning-api-lcjyuxpjdo.now.sh/posts')
       .then(response => response.json())
       .then(json => {
         const posts = json.items;
