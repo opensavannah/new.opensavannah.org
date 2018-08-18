@@ -56,7 +56,7 @@ class IndexPage extends React.Component {
                       <FolderSVG />
                     </div>
                     <div className="media-object-section">
-                      <p className="header-medium">Build with and teach our communities technology and design skills to empower individuals and revitalize communities from the inside out, not vice versa</p>
+                      <p className="header-medium">Empower individuals and revitalize communities from the inside out by equipping our communities with access to tech and design knowledge</p>
                     </div>
                   </div>
 
