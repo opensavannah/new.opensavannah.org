@@ -13,13 +13,13 @@ import {
 const AboutPage = () => (
   <div className="main">
     <Hero
-      title="About Planning Labs"
-      tagline="We build open, impactful technology products at the NYC Department of City Planning."
+      title="About OpenSavannah"
+      tagline="We build community and use technology and service design to improve the effectiveness of government services for the most vulnerable in the Savannah region."
     />
     <div className="grid-container">
      <div className="grid-x grid-padding-x">
       <div className="cell large-8" id="page-content">
-        <h2 id="what-is-planning-labs" data-magellan-target="what-is-planning-labs">What is Planning Labs?</h2>
+        <h2 id="what-is-planning-labs" data-magellan-target="what-is-planning-labs">What is OpenSavannah?</h2>
         <p>Planning Labs is a new division of the <a href="http://www1.nyc.gov/site/planning/">NYC Department of City Planning</a> (DCP) that embraces open technology, agile development, and user-centered design to build impactful products with NYC’s Urban Planners.</p>
         <p>We are inspired by the mission and successes of <a href="https://18f.gsa.gov/">18F</a>, and are applying a similar philosophy at a much smaller scale within our agency.</p>
         <hr/>
