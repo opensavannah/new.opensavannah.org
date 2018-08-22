@@ -20,8 +20,8 @@ const AboutPage = () => (
      <div className="grid-x grid-padding-x">
       <div className="cell large-8" id="page-content">
         <h2 id="what-is-planning-labs" data-magellan-target="what-is-planning-labs">What is OpenSavannah?</h2>
-        <p>Planning Labs is a new division of the <a href="http://www1.nyc.gov/site/planning/">NYC Department of City Planning</a> (DCP) that embraces open technology, agile development, and user-centered design to build impactful products with NYC’s Urban Planners.</p>
-        <p>We are inspired by the mission and successes of <a href="https://18f.gsa.gov/">18F</a>, and are applying a similar philosophy at a much smaller scale within our agency.</p>
+        <p>We are civic-minded residents committed to working with the City of Savannah, Chatham County and other municipalities in the greater Savannah area – as well as other nonprofit organizations – to make our region stronger. We’re here to help and eager to learn from professional public servants. And while we’re advocates for open government (we can’t build apps without open data!), we’re non-partisan and public-minded.</p>
+        <p>We are a group of civic-minded programmers, coders, designers, and extraordinary citizens. We work in partnership with government, non-profit, and technical partners to deploy technology to improve quality of life for all residents and increase citizen engagement with civic issues.</p>
         <hr/>
         <h2 id="our-core-values" data-magellan-target="our-core-values">Our Core Values</h2>
         <p>We strive to work in a modern way and use best practices on all our projects. Here’s what that means to us:</p>
@@ -31,7 +31,7 @@ const AboutPage = () => (
           </div>
           <div className="media-object-section">
              <h4>Open by Default</h4>
-             <p>Planning Labs is committed to openness and transparency, and all activities will be open by default. We will adopt the open source policy of 18F as a foundational set of principles to build upon.</p>
+             <p>OpenSavannah is committed to openness and transparency, and all activities will be open by default. We will adopt the open source policy of 18F as a foundational set of principles to build upon.</p>
           </div>
         </div>
         <div className="media-object">
@@ -40,7 +40,7 @@ const AboutPage = () => (
           </div>
           <div className="media-object-section">
              <h4>Build With, Not For</h4>
-             <p>Planning Labs is a design partner, working closely with its customers in visioning and agile development. Customers are expected to provide resources for the duration of a product build, and will be heavily involved in sprint planning, testing and acceptance.</p>
+             <p>OpenSavannah is a design partner, working closely with its customers in visioning and agile development. Customers are expected to provide resources for the duration of a product build, and will be heavily involved in sprint planning, testing and acceptance.</p>
           </div>
         </div>
         <div className="media-object">
@@ -49,7 +49,7 @@ const AboutPage = () => (
           </div>
           <div className="media-object-section">
              <h4>Ship Early, Ship Often</h4>
-             <p>Planning Labs’ preferred projects will yield a minimum viable product in 4-6 weeks, providing a rapid cadence and the opportunity to work on diverse projects and problems across the agency.</p>
+             <p>OpenSavannah’ preferred projects will yield a minimum viable product in 4-6 weeks, providing a rapid cadence and the opportunity to work on diverse projects and problems across the agency.</p>
           </div>
         </div>
         <div className="media-object">
