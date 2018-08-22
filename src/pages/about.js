@@ -58,24 +58,26 @@ const AboutPage = () => (
           </div>
           <div className="media-object-section">
              <h4>Document and Disseminate</h4>
-             <p>Planning Labs will place a high priority on documentation and outward messaging in support of its mission to promote modern technology best practices, and will manage its own content to include general information about the team’s mission and work program, blogging, docs, and social media engagement.</p>
+             <p>OpenSavannah will place a high priority on documentation and outward messaging in support of its mission to promote modern technology best practices, and will manage its own content to include general information about the team’s mission and work program, blogging, docs, and social media engagement.</p>
           </div>
         </div>
         <p>Read the full text of <strong><a href="https://github.com/NYCPlanning/labs-charter">our charter</a></strong> on GitHub.</p>
         <hr/>
         <h2 id="our-team" data-magellan-target="our-team">Our Team</h2>
-        <h3 id="chris-whong-director">Chris Whong: Director</h3>
+        <h3 id="chris-whong-director">Carl V. Lewis: Director</h3>
         <div className="media-object">
           <div className="media-object-section"> <img className="thumbnail avatar" src="https://pbs.twimg.com/profile_images/3057855429/49cff02ea1ea88993d7edadd8b027982_400x400.jpeg"/> </div>
           <div className="media-object-section">
              <p>Chris developed the concept for Planning Labs in 2017, after leading the development of modern, open mapping applications in DCP's Capital Planning Division. He is an urbanist, open data advocate, civic technologist, and a former Code for America Brigade leader. </p>
           </div>
         </div>
-        <h3 id="andy-cochran-designer">Andy Cochran: Designer</h3>
+        <h3 id="andy-cochran-designer">Aaron Pompei: Service Designer</h3>
         <div className="media-object">
-          <div className="media-object-section"> <img className="thumbnail avatar" src="https://pbs.twimg.com/profile_images/486195376077029377/U1cXHuNZ_400x400.jpeg"/> </div>
+          <div className="media-object-section"> <img className="thumbnail avatar" src="https://cvlassets.s3.amazonaws.com/b5cec6eb193b212ea645d234d7c988bd.jpg"/> </div>
           <div className="media-object-section">
-             <p>Andy joined the founding team of Planning Labs in July, 2017 after implementing New York City Council's plan for digital inclusion and open government. As Design &amp; Creative Director at <a href="http://openplans.org/">OpenPlans</a>, he built collaborative mapping services and other civic engagement tools.</p>
+             <p>Aaron is a designer and UX architect who is currently pursuing an M.F.A. in Interactive Design from Savannah College of Art and Design. Open Savannah is important to him as an opportunity to collaborate with area residents and municipal staff to improve our city.
+
+</p>
           </div>
         </div>
         <h3 id="matt-gardner-developer">Matt Gardner: Developer</h3>
