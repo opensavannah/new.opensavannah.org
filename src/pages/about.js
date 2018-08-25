@@ -20,10 +20,11 @@ const AboutPage = () => (
      <div className="grid-x grid-padding-x">
       <div className="cell large-8" id="page-content">
         <h2 id="what-is-planning-labs" data-magellan-target="what-is-planning-labs">What is OpenSavannah?</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zpoU-qwWw8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
         <p>We are civic-minded residents committed to working with the City of Savannah, Chatham County and other municipalities in the greater Savannah area – as well as other nonprofit organizations – to make our region stronger. We’re here to help and eager to learn from professional public servants. And while we’re advocates for open government (we can’t build apps without open data!), we’re non-partisan and public-minded.</p>
         <p>We are a group of civic-minded programmers, coders, designers, and extraordinary citizens. We work in partnership with government, non-profit, and technical partners to deploy technology to improve quality of life for all residents and increase citizen engagement with civic issues.</p>
         <hr/>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/zpoU-qwWw8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         <h2 id="our-core-values" data-magellan-target="our-core-values">Our Core Values</h2>
         <p>We strive to work in a modern way and use best practices on all our projects. Here’s what that means to us:</p>
         <div className="media-object">
